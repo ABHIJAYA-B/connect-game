@@ -16,7 +16,8 @@ This project is a web-based implementation of the classic Connect Four game. It 
 - CSS
 - JavaScript
 
-Game Rules
+## Game Rules
+
 Players take turns dropping one of their colored discs from the top into a column of a 7x6 grid.
 The disc falls straight down, occupying the lowest available space within the column.
 The objective is to be the first to form a horizontal, vertical, or diagonal line of four of one's own discs.
